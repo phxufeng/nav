@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on WebStack网址导航 Hugo主题</title>
-    <link>https://iplaycode.github.io/nav/tags/</link>
+    <link>https://phxufeng.github.io/nav/tags/</link>
     <description>Recent content in Tags on WebStack网址导航 Hugo主题</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     
-	<atom:link href="https://iplaycode.github.io/nav/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://phxufeng.github.io/nav/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
